@@ -13,14 +13,14 @@ We will introduce the concept of **reading and writing files** with Python. We w
 
 ## Reading Assignment:
 * Python Documentation
-  * The Python Tutorial
-    * An Informal Introduction to Python
+  * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+    * [An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html)
     * More Control Flow Tools
-       * if Statements
-       * for Statements
+       * [if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+       * [for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
     * Input and Output
   * The Python Standard Library
-    * csv -- CSV File Reading and Writing
+    * [csv -- CSV File Reading and Writing](https://docs.python.org/3/library/csv.html?highlight=csv#module-csv)
 * Textbook
   * Chapter 5 sections 1, 2
   * Reread Chapter 2 and 3 as needed to complete the Projects
